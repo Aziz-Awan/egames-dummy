@@ -1,0 +1,7 @@
+.imageCropWrapper .imageWrapper{border:1px solid black;position:relative}
+.imageCropWrapper .imageWrapper img{margin:1px}
+.imageCropWrapper .imageWrapper .overlay{border:1px dotted black;background:transparent;position:absolute;top:0;left:0}
+.imageCropWrapper .ui-resizable-handle{border:1px solid #000000;width:7px;height:7px}
+.imageCropWrapper .ui-resizable-e,.imageCropWrapper .ui-resizable-w{top:48%}
+.imageCropWrapper .ui-resizable-n,.imageCropWrapper .ui-resizable-s{left:48%}
+.imageCropWrapper .ui-resizable-se{right:-5px;bottom:-5px}
